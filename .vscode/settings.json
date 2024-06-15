@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "onFocusChange",
+    "java.help.collectErrorLog": true,
+    "workbench.colorTheme": "Default Dark Modern",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Java\\Jar\\mysql-connector-java-8.0.22.jar",
+        "c:\\Users\\Lenovo\\Desktop\\sqljdbc_12.6\\chs\\jars\\mssql-jdbc-12.6.1.jre11.jar",
+        "c:\\Users\\Lenovo\\Desktop\\sqljdbc_12.6\\chs\\jars\\mssql-jdbc-12.6.1.jre8.jar",
+        "d:\\Java\\Jar\\mssql-jdbc-12.6.1.jre11.jar"
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable"
+}

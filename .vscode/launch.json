@@ -1,0 +1,512 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "etc6_3_Main",
+            "request": "launch",
+            "mainClass": "java程序设计.etc6_3_Main",
+            "projectName": "22450210 黄佳 java vscode_996bb1dc"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "java程序设计.ui.Login",
+            "projectName": "22450210 黄佳 java vscode_996bb1dc"
+        },
+        {
+            "type": "java",
+            "name": "Demo10_06_MyNotepad",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo10_06_MyNotepad",
+            "projectName": "22450210 黄佳 java vscode_996bb1dc"
+        },
+        {
+            "type": "java",
+            "name": "Demo10_06_MyListener",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo10_06_MyListener",
+            "projectName": "22450210 黄佳 java vscode_996bb1dc"
+        },
+        {
+            "type": "java",
+            "name": "Demo10_02_CloseWindow",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo10_02_CloseWindow",
+            "projectName": "22450210 黄佳 java vscode_996bb1dc"
+        },
+        {
+            "type": "java",
+            "name": "Demo10_03_MouseAndKeyEvent",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo10_03_MouseAndKeyEvent",
+            "projectName": "22450210 黄佳 java vscode_996bb1dc"
+        },
+        {
+            "type": "java",
+            "name": "Demo10_04_EventHandle",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo10_04_EventHandle",
+            "projectName": "22450210 黄佳 java vscode_996bb1dc"
+        },
+        {
+            "type": "java",
+            "name": "Demo10_05_Menu",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo10_05_Menu",
+            "projectName": "22450210 黄佳 java vscode_996bb1dc"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAdd",
+            "request": "launch",
+            "mainClass": "ArrayAdd",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAvg",
+            "request": "launch",
+            "mainClass": "ArrayAvg",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "ArrayC1",
+            "request": "launch",
+            "mainClass": "ArrayC1",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "ArrayExchange",
+            "request": "launch",
+            "mainClass": "ArrayExchange",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo11_02_Test",
+            "request": "launch",
+            "mainClass": "Demo11_02.src.Demo11_02_Test",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo10_01_SimpleWindows",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo10_01_SimpleWindows",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo10_02_CloseWindow",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo10_02_CloseWindow",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo10_04_EventHandle",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo10_04_EventHandle",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo11_03_PreparedStatement",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo11_03_PreparedStatement",
+            "projectName": "22450210 黄佳 java_15e9ccae",
+            "args": "Andy 30 男 深圳市 技术部 5 15200"
+        },
+        {
+            "type": "java",
+            "name": "Demo1_01",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo1_01",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo2_02",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo2_02",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo2_03",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo2_03",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo2_04",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo2_04",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo2_05",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo2_05",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo2_06_DaffodilNum",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo2_06_DaffodilNum",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo2_07_promeNum",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo2_07_promeNum",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo2_08_DecPrimeFactor",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo2_08_DecPrimeFactor",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo2_09_ProfitDrawing",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo2_09_ProfitDrawing",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo2_1",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo2_1",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo2_10_DayofYear",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo2_10_DayofYear",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo3_01_Reverse",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo3_01_Reverse",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo3_02_LastOrder",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo3_02_LastOrder",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo3_03_StatisticalChar",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo3_03_StatisticalChar",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo3_04_matrixSum",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo3_04_matrixSum",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo3_05_avgScore",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo3_05_avgScore",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo3_06_Arrays",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo3_06_Arrays",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_01_Teach",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_01_Teach",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_02_TestCourse",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_02_TestCourse",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_03_Test",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_03_Test",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_04_User",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_04_User",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_05_Overloading",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_05_Overloading",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_06_User",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_06_User",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_07_MainClass",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_07_MainClass",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_08_SaveMony",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_08_SaveMony",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_09_Estimator",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_09_Estimator",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_10_WeatherForecast",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_10_WeatherForecast",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo4_11_MainClass",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo4_11_MainClass",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo5_01_StringCrate",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo5_01_StringCrate",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo5_02_StringDistinction",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo5_02_StringDistinction",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo5_03_RemoveSpace",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo5_03_RemoveSpace",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo5_04_StringJudge",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo5_04_StringJudge",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo6_01_Boxing",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo6_01_Boxing",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo6_02_WrapperClass",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo6_02_WrapperClass",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo6_03_ProgramRuntimes",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo6_03_ProgramRuntimes",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo6_04_JVMInfo",
+            "request": "launch",
+            "mainClass": "Java程序设计上机实训.Demo6_04_JVMInfo",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Q2",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Demo11_02_Test(1)",
+            "request": "launch",
+            "mainClass": "demo11_02_jia.Demo11_02_Test",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "etc12_01_JDBCConMySQL",
+            "request": "launch",
+            "mainClass": "java程序设计.etc12_01_JDBCConMySQL",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "etc12_01_JdbcConMysql1",
+            "request": "launch",
+            "mainClass": "java程序设计.etc12_01_JdbcConMysql1",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "etc12_02_JdbcConSqlServer",
+            "request": "launch",
+            "mainClass": "java程序设计.etc12_02_JdbcConSqlServer",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "etc2_15",
+            "request": "launch",
+            "mainClass": "java程序设计.etc2_15",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "etc2_19$BCRTest",
+            "request": "launch",
+            "mainClass": "java程序设计.etc2_19$BCRTest",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "etc2_20",
+            "request": "launch",
+            "mainClass": "java程序设计.etc2_20",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "etc2_21",
+            "request": "launch",
+            "mainClass": "java程序设计.etc2_21",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "etc5_16_EnumTest",
+            "request": "launch",
+            "mainClass": "java程序设计.etc5_16_EnumTest",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "etc5_20_test",
+            "request": "launch",
+            "mainClass": "java程序设计.etc5_20_test",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "java程序设计.ui.Login",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "实训任务六1",
+            "request": "launch",
+            "mainClass": "实训任务六1",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "实训任务六2",
+            "request": "launch",
+            "mainClass": "实训任务六2",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "实训任务六3",
+            "request": "launch",
+            "mainClass": "实训任务六3",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "实验七_2",
+            "request": "launch",
+            "mainClass": "实验七_2",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        },
+        {
+            "type": "java",
+            "name": "试验七_1",
+            "request": "launch",
+            "mainClass": "试验七_1",
+            "projectName": "22450210 黄佳 java_15e9ccae"
+        }
+    ]
+}
